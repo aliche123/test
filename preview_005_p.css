@@ -1,0 +1,53 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+div#e4              {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :   0.00pt;
+	width           : 660.00pt;
+	height          : 600.00pt;
+	}
+div#e3              { /* Home */
+	text-align      : center;
+	padding-top     :   1.50pt;
+	position        : absolute;
+	left            : 558.75pt;
+	top             :  57.75pt;
+	width           :  69.75pt;
+	height          :  18.00pt;
+	}
+div#e2              { /* Dana Node Pool\ */
+	background      : transparent url(images/preview005002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 203.25pt;
+	top             :  16.50pt;
+	width           : 280.50pt;
+	height          :  24.00pt;
+	}
+span#e1             { /* images/preview005001.jpg */
+	background      : transparent url(images/preview005001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   9.75pt;
+	top             :  78.00pt;
+	width           : 656.25pt;
+	height          : 384.00pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 675.00pt;
+	height          : 600.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #d6d6d6;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

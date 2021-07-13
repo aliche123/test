@@ -1,0 +1,61 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+div#e5              {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :   0.00pt;
+	width           : 660.00pt;
+	height          : 600.00pt;
+	}
+h6#e4               { /* GMB Group */
+	text-align      : left;
+	position        : absolute;
+	left            :  31.50pt;
+	top             : 576.00pt;
+	width           : 228.00pt;
+	height          :  12.00pt;
+	}
+div#e3              { /* Back to Home */
+	text-align      : center;
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            : 468.75pt;
+	top             :  36.00pt;
+	width           : 166.50pt;
+	height          :  21.00pt;
+	}
+div#e2              { /* Dana Node Pool\ */
+	background      : transparent url(images/preview004002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 185.25pt;
+	top             :  20.25pt;
+	width           : 280.50pt;
+	height          :  24.00pt;
+	}
+span#e1             { /* images/preview004001.jpg */
+	background      : transparent url(images/preview004001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   8.25pt;
+	top             :  63.00pt;
+	width           : 649.50pt;
+	height          : 359.25pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 675.00pt;
+	height          : 600.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #d6d6d6;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

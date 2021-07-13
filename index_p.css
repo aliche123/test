@@ -1,0 +1,150 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc02               { /* Common */
+	font            : 24pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc03               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+div#e16             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :   0.00pt;
+	width           : 660.00pt;
+	height          : 525.00pt;
+	}
+div#e15             { /* To delegate:\ \1- Open f... */
+	position        : absolute;
+	left            :  24.00pt;
+	top             : 321.00pt;
+	width           : 473.25pt;
+	height          :  38.25pt;
+	}
+div#e14             { /* Dana Node Pool\ */
+	background      : transparent url(images/preview001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 204.00pt;
+	top             :  12.75pt;
+	width           : 275.25pt;
+	height          :  30.00pt;
+	}
+span#e13            { /* images/preview001003.jpg */
+	background      : transparent url(images/preview001003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  29.25pt;
+	top             :  39.75pt;
+	width           : 616.50pt;
+	height          : 162.00pt;
+	}
+div#e12             { /* Highly available\ \Secur... */
+	position        : absolute;
+	left            :  42.00pt;
+	top             :  51.00pt;
+	width           : 196.50pt;
+	height          :  86.25pt;
+	}
+div#e11             { /* Let Us Delegate to Dana ... */
+	background      : transparent url(images/preview001002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 145.50pt;
+	top             : 168.75pt;
+	width           : 447.75pt;
+	height          :  42.00pt;
+	}
+div#e10             { /* Pool ID:  52ffc8b767d552... */
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 215.25pt;
+	width           : 546.00pt;
+	height          :  16.50pt;
+	}
+div#e9              { /* Pool Ticker:  DNND */
+	position        : absolute;
+	left            :  54.75pt;
+	top             : 236.25pt;
+	width           : 546.00pt;
+	height          :  16.50pt;
+	}
+div#e8              { /* Pool Location: Indiana U... */
+	position        : absolute;
+	left            :  55.50pt;
+	top             : 255.75pt;
+	width           : 546.00pt;
+	height          :  16.50pt;
+	}
+div#e7              { /* Email:  dananodeada@gmai... */
+	position        : absolute;
+	left            :  56.25pt;
+	top             : 274.50pt;
+	width           : 546.00pt;
+	height          :  16.50pt;
+	}
+span#e6             { /* images/preview001001.jpg */
+	background      : transparent url(images/preview001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 504.75pt;
+	top             : 315.00pt;
+	width           : 150.00pt;
+	height          : 165.00pt;
+	}
+div#e5              { /* 2- Buy Cardano, Ada, int... */
+	position        : absolute;
+	left            :  24.75pt;
+	top             : 357.75pt;
+	width           : 473.25pt;
+	height          :  19.50pt;
+	}
+div#e4              { /* 3- Download Cardano wall... */
+	position        : absolute;
+	left            :  25.50pt;
+	top             : 378.00pt;
+	width           : 473.25pt;
+	height          :  19.50pt;
+	}
+div#e3              { /* 4- Transfer Ada from you... */
+	position        : absolute;
+	left            :  25.50pt;
+	top             : 397.50pt;
+	width           : 473.25pt;
+	height          :  19.50pt;
+	}
+div#e2              { /* Test a transfer with sma... */
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 414.75pt;
+	width           : 457.50pt;
+	height          :  22.50pt;
+	}
+div#e1              { /* 5- In your Yoroi wallet,... */
+	position        : absolute;
+	left            :  27.75pt;
+	top             : 433.50pt;
+	width           : 473.25pt;
+	height          :  36.75pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #c0c0c0;
+	position        : relative;
+	width           : 675.00pt;
+	height          : 525.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #c0c0c0;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
